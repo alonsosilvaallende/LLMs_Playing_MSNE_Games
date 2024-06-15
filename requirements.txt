@@ -1,0 +1,5 @@
+numpy==1.26.4
+regex==2.5.141
+langchain_experimental==0.0.57
+json-repair==0.23.1
+llama-cpp-python[server]==0.2.78
