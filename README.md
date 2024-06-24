@@ -1,6 +1,6 @@
 # LLMs Playing Mixed Strategy Nash Equilibrium Games
 
-Codes provided for the paper "Large Language Models Playing Mixed Strategy Nash Equilibrium Games".
+Codes provided for the paper ["Large Language Models Playing Mixed Strategy Nash Equilibrium Games"](https://arxiv.org/abs/2406.10574).
 
 ## Instructions
 
